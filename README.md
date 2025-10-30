@@ -1,4 +1,4 @@
-# Blanca Sánchez Gutiérrez
+# Blanca Sánchez G.
 
 # 💫 About Me:
 👩🏼‍💻 En este momento me encuentro en una emocionante transición de carrera, estoy pivotando mi experiencia previa en Administración de Empresas hacia el campo de la Ingeniería de Calidad (QA Engineer Jr.) ✅ Mi superpoder es encontrar fallos antes que el cliente. ⚠️📝
