@@ -3,6 +3,27 @@
 # 💫 About Me:
 👩🏼‍💻 En este momento me encuentro en una emocionante transición de carrera, estoy pivotando mi experiencia previa en Administración de Empresas hacia el campo de la Ingeniería de Calidad (QA Engineer Jr.) ✅ Mi superpoder es encontrar fallos antes que el cliente. ⚠️📝
 
+## 🛠️ Mis Habilidades Clave
+
+Estoy enfocada en la automatización y el testing de la capa de servicios:
+
+* **API Testing:** Dominio en validación funcional con **Postman**.
+* **UI Testing:** Selenium
+* **Gestión de Defectos:** Jira y Confluence.
+* **Metodologías:** Ágiles (Scrum).
+
+## 💻 Actualmente
+
+Estoy trabajando en el **diseño y ejecución de una suite de API Tests para la aplicación Urban Grocers**, utilizando Postman para validar la lógica de negocio de los **kits de productos** y la correcta integración con los **servicios de entrega**.
+
+## 🌱 Lo que estoy aprendiendo
+
+**Automatización:** Pytest 🐍
+
+---
+
+**Siempre estoy abierta a conectar** ¡Gracias por pasar por aquí!
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/blancasanchez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/blancasanchezg) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/blonssh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:blanca.sanchezg@icloud.com) 
