@@ -45,14 +45,14 @@ En este sprint fortalecí mis habilidades en análisis de requisitos, diseño de
 
 ___
 
-[🪲 **Sprint 03:** Buscador de bugs]([https://github.com/tuusuario/sprint03](https://github.com/blonsh/TripleTen_QaEngineer/tree/f7b16f30ad9cacd23eb89d8354e0eae96a9c8bf8/Sprint03_Buscador%20de%20bugs)  
+[🪲 **Sprint 03:** Buscador de bugs](https://github.com/blonsh/TripleTen_QaEngineer/tree/f7b16f30ad9cacd23eb89d8354e0eae96a9c8bf8/Sprint03_Buscador%20de%20bugs)  
 _Habilidades: Seguimiento de bugs, Jira, Pruebas de UI_
 
 Este proyecto me permitió fortalecer mis habilidades en pruebas de UI y seguimiento de bugs utilizando Jira, comprendiendo cómo evaluar la adaptabilidad y funcionalidad de una aplicación web en distintos entornos.
 
 ___
 
-[⚙️ **Sprint 04:** Tester de APIs](https://github.com/blonsh/TripleTen_QaEngineer/tree/f7b16f30ad9cacd23eb89d8354e0eae96a9c8bf8/Sprint04_Testing%20de%20APIs)  
+[⚙️ **Sprint 04:** Tester de APIs](https://github.com/blonsh/TripleTen_QaEngineer/tree/f7b16f30ad9cacd23eb89d8354e0eae96a9c8bf8/Sprint03_Buscador%20de%20bugs)  
 _Habilidades: Dominio de las pruebas manuales de APIs utilizando Postman y Apidoc para crear e inspeccionar solicitudes HTTP._
 
 Este sprint marcó mi primer acercamiento real al testing de APIs, fortalecí mis habilidades en pruebas manuales de APIs con Postman y Apidoc, comprendiendo mejor las respuestas HTTP y su impacto en la calidad del software.
