@@ -31,14 +31,7 @@ Cada enlace te llevará al repositorio carpeta correspondiente.
 
  
 [🔍 **Sprint 01:** Sprint 01 - Mi primera experiencia QA](https://github.com/blonsh/TripleTen_QaEngineer/tree/16d801e3e4f0fccf350e89d4d80737fbe851ad5b/Sprint01%20_Mi%20primera%20experiencia%20QA)  
-_Pruebas de humo, Pruebas de regresión, Informes de errores._
-
-Durante este Sprint realicé ejercicios prácticos acerca de:
-
-* ¿Cómo crear una lista de comprobación?
-* Pruebas de regresión con listas de comprobación.
-* ¿Cómo crear casos de prueba?
-* ¿Cómo crear informes de errores?
+_Habilidades: Pruebas de humo, Pruebas de regresión, Informes de errores._
 
 El proyecto me ayudó a consolidar nuevo conocimiento y a adquirir habilidades prácticas para realizar pruebas.
 
@@ -46,26 +39,14 @@ ___
 
 
 [📝 **Sprint 02:** Lider en documentación de pruebas](https://github.com/blonsh/TripleTen_QaEngineer/tree/16d801e3e4f0fccf350e89d4d80737fbe851ad5b/Sprint02_Lider%20en%20documentaci%C3%B3n%20de%20pruebas)  
-_El objetivo de este Sprint fue adquirir las siguientes habilidades:_
+_Habilidades: Análisis de requisitos, Diseño de pruebas, Documentación de prueba._
 
-* Análisis de requisitos.
-* Diseño de pruebas.
-* Documentación de prueba.
-
-Fortalecí mis habilidades en análisis de requisitos, diseño de pruebas y documentación, aplicando un enfoque metódico para asegurar la calidad del producto.
+En este sprint fortalecí mis habilidades en análisis de requisitos, diseño de pruebas y documentación, aplicando un enfoque metódico para asegurar la calidad del producto.
 
 ___
 
 [🪲 **Sprint 03:** Buscador de bugs](https://github.com/tuusuario/sprint03)  
 _Habilidades: Seguimiento de bugs, Jira, Pruebas de UI_
-
-Durante en este sprint aprendí lo siguiente:
-
-* ¿Cómo funciona una aplicación web?
-* ¿Cómo probar los elementos de la interfaz?
-* ¿Cómo probar aplicaciones web en diferentes dispositivos y en diferentes navegadores?
-* ¿Cómo probar el diseño para la adaptabilidad?
-* ¿Cómo diseñar casos de prueba de aplicaciones web?
 
 Este proyecto me permitió fortalecer mis habilidades en pruebas de UI y seguimiento de bugs utilizando Jira, comprendiendo cómo evaluar la adaptabilidad y funcionalidad de una aplicación web en distintos entornos.
 
