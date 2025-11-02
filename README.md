@@ -11,7 +11,6 @@ Estoy enfocada en la automatización y el testing de la capa de servicios:
 * **API Testing:** Dominio en validación funcional con **Postman**.
 * **UI Testing:** Selenium
 * **Gestión de Defectos:** Jira y Confluence.
-* **Metodologías:** Ágiles (Scrum).
 
 ## 💻 Actualmente
 
