@@ -1,7 +1,8 @@
 # Blanca Sánchez G.
 
-# 💫 About Me:
-👩🏼‍💻 En este momento me encuentro en una emocionante transición de carrera, estoy pivotando mi experiencia previa en Administración de Empresas hacia el campo de la Ingeniería de Calidad (QA Engineer Jr.) ✅ Mi superpoder es encontrar fallos antes que el cliente. ⚠️📝
+## 💫 About Me:
+👩🏼‍💻 En este momento me encuentro en una emocionante transición de carrera, estoy pivotando mi experiencia previa en Administración de Empresas hacia el campo de la Ingeniería de Calidad (QA Engineer Jr.)
+🪲 Mi superpoder es encontrar fallos antes que el cliente. 
 
 ## 🛠️ Mis Habilidades Clave
 
@@ -16,61 +17,65 @@ Estoy enfocada en la automatización y el testing de la capa de servicios:
 
 Estoy trabajando en el **diseño y ejecución de una suite de API Tests para la aplicación Urban Grocers**, utilizando Postman para validar la lógica de negocio de los **kits de productos** y la correcta integración con los **servicios de entrega**.
 
-## 🌱 Lo que estoy aprendiendo
+## 💡 Lo que estoy aprendiendo
 
 **Automatización:** Pytest 🐍
 
-## 🧩 Proyecto
+## 🧩 Proyectos
 
 ### Bootcamp Ingeniero de Calidad de Software - TripleTen
 
 **Descripción:**  
-A continuación se muestran los entregables desarrollados durante cada sprint del **Bootcamp de QA Engineer de TripleTen**.  
+A continuación se muestran los entregables desarrollados durante cada sprint del Bootcamp de QA Engineer de TripleTen.  
 Cada enlace te llevará al repositorio o carpeta correspondiente.
----
+
  
 [🔍 **Sprint 01:** Sprint 01 - Mi primera experiencia QA](https://github.com/tuusuario/sprint01)  
 _Pruebas de humo, Pruebas de regresión, Informes de errores._
 
 Durante este Sprint realicé ejercicios prácticos acerca de:
 
-- ¿Cómo crear una lista de comprobación?
-- Pruebas de regresión con listas de comprobación.
-- ¿Cómo crear casos de prueba?
-- ¿Cómo crear informes de errores?
+* ¿Cómo crear una lista de comprobación?
+* Pruebas de regresión con listas de comprobación.
+* ¿Cómo crear casos de prueba?
+* ¿Cómo crear informes de errores?
 
 El proyecto me ayudó a consolidar nuevo conocimiento y a adquirir habilidades prácticas para realizar pruebas.
-<br>
+
+___
+
 
 [📝 **Sprint 02:** Lider en documentación de pruebas](https://github.com/tuusuario/sprint02)  
 _El objetivo de este Sprint fue adquirir las siguientes habilidades:_
 
-1.- Anális de requisitos.
-2.- Diseño de pruebas.
-3.- Documentación de prueba.
-<br>
+* Anális de requisitos.
+* Diseño de pruebas.
+* Documentación de prueba.
+
+___
 
 [🪲 **Sprint 03:** Buscador de bugs](https://github.com/tuusuario/sprint03)  
 _Habilidades: Seguimiento de bugs, Jira, Pruebas de UI_
 
 Durante en este sprint aprendí lo siguiente:
 
-1.- ¿Cómo funciona una aplicación web?
-2.- ¿Cómo probar los elementos de la interfaz?
-3.- ¿Cómo probar aplicaciones web en diferentes dispositivos y en diferentes navegadores?
-4.- ¿Cómo probar el diseño para la adaptabilidad?
-5.- ¿Cómo diseñar casos de prueba de aplicaciones web?_
-<br>
+* ¿Cómo funciona una aplicación web?
+* ¿Cómo probar los elementos de la interfaz?
+* ¿Cómo probar aplicaciones web en diferentes dispositivos y en diferentes navegadores?
+* ¿Cómo probar el diseño para la adaptabilidad?
+* ¿Cómo diseñar casos de prueba de aplicaciones web?
+
+___
 
 [⚙️ **Sprint 04:** Integración continua y reportes](https://github.com/tuusuario/sprint04)  
 _Habilidades: Dominio de las pruebas manuales de APIs utilizando Postman y Apidoc para crear e inspeccionar solicitudes HTTP._
 
-Durante este sprint he adquirido una comprensión sobre el funcionamiento de las API, incluidas las interacciones solicitud-respuesta y los protocolos de intercambio de datos.
-<br>
+Durante este sprint he adquirido una comprensión sobre el funcionamiento de las API, incluidas las interacciones solicitud-respuesta y los protocolos de intercambio de datos. 
 
----
 
-🗓️ **Fecha estimada de finalización:** Enero de 2026  
+
+___
+🗓️ **Fecha estimada de finalización del bootcamp:** Enero de 2026.  
 📚 Se agregarán nuevos proyectos al concluir cada sprint.
 
 ---
