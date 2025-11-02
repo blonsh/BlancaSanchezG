@@ -30,7 +30,7 @@ A continuación se muestran los entregables desarrollados durante cada sprint de
 Cada enlace te llevará al repositorio carpeta correspondiente.
 
  
-[🔍 **Sprint 01:** Sprint 01 - Mi primera experiencia QA](https://github.com/tuusuario/sprint01)  
+[🔍 **Sprint 01:** Sprint 01 - Mi primera experiencia QA](https://github.com/blonsh/TripleTen_QaEngineer/tree/16d801e3e4f0fccf350e89d4d80737fbe851ad5b/Sprint01%20_Mi%20primera%20experiencia%20QA)  
 _Pruebas de humo, Pruebas de regresión, Informes de errores._
 
 Durante este Sprint realicé ejercicios prácticos acerca de:
