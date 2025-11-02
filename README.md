@@ -23,7 +23,7 @@ Estoy trabajando en el **diseño y ejecución de una suite de API Tests para la 
 
 ## 🧩 Proyectos
 
-### Bootcamp Ingeniero de Calidad de Software - TripleTen
+### Bootcamp Ingeniero de Calidad de Software - TripleTen 
 
 **Descripción:**  
 A continuación se muestran los entregables desarrollados durante cada sprint del Bootcamp de QA Engineer de TripleTen.  
