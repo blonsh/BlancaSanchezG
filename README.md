@@ -20,6 +20,16 @@ Estoy trabajando en el **diseño y ejecución de una suite de API Tests para la 
 
 **Automatización:** Pytest 🐍
 
+## 🧩 Proyecto
+
+### Bootcamp Ingeniero de Calidad de Software - TripleTen
+
+**Descripción:**  
+Este proyecto recopila los entregables desarrollados en cada sprint del **Bootcamp de QA Engineer de TripleTen**.  
+A lo largo del programa se irán incorporando nuevos proyectos al finalizar cada sprint, hasta completar los **8 sprints** previstos.  
+La fecha de conclusión está programada para **enero de 2026**.
+
+
 ---
 
 **Siempre estoy abierta a conectar** ¡Gracias por pasar por aquí!
