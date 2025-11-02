@@ -48,7 +48,7 @@ ___
 [📝 **Sprint 02:** Lider en documentación de pruebas](https://github.com/tuusuario/sprint02)  
 _El objetivo de este Sprint fue adquirir las siguientes habilidades:_
 
-* Anális de requisitos.
+* Análisis de requisitos.
 * Diseño de pruebas.
 * Documentación de prueba.
 
@@ -71,7 +71,7 @@ Este proyecto me permitió fortalecer mis habilidades en pruebas de UI y seguimi
 
 ___
 
-[⚙️ **Sprint 04:** Integración continua y reportes](https://github.com/tuusuario/sprint04)  
+[⚙️ **Sprint 04:** Tester de APIs](https://github.com/tuusuario/sprint04)  
 _Habilidades: Dominio de las pruebas manuales de APIs utilizando Postman y Apidoc para crear e inspeccionar solicitudes HTTP._
 
 Este sprint marcó mi primer acercamiento real al testing de APIs, fortalecí mis habilidades en pruebas manuales de APIs con Postman y Apidoc, comprendiendo mejor las respuestas HTTP y su impacto en la calidad del software.
