@@ -45,7 +45,7 @@ El proyecto me ayudó a consolidar nuevo conocimiento y a adquirir habilidades p
 ___
 
 
-[📝 **Sprint 02:** Lider en documentación de pruebas](https://github.com/tuusuario/sprint02)  
+[📝 **Sprint 02:** Lider en documentación de pruebas](https://github.com/blonsh/TripleTen_QaEngineer/tree/16d801e3e4f0fccf350e89d4d80737fbe851ad5b/Sprint02_Lider%20en%20documentaci%C3%B3n%20de%20pruebas)  
 _El objetivo de este Sprint fue adquirir las siguientes habilidades:_
 
 * Análisis de requisitos.
