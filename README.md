@@ -27,7 +27,7 @@ Estoy trabajando en el **diseño y ejecución de una suite de API Tests para la 
 
 **Descripción:**  
 A continuación se muestran los entregables desarrollados durante cada sprint del Bootcamp de QA Engineer de TripleTen.  
-Cada enlace te llevará al repositorio o carpeta correspondiente.
+Cada enlace te llevará al repositorio carpeta correspondiente.
 
  
 [🔍 **Sprint 01:** Sprint 01 - Mi primera experiencia QA](https://github.com/tuusuario/sprint01)  
@@ -52,6 +52,8 @@ _El objetivo de este Sprint fue adquirir las siguientes habilidades:_
 * Diseño de pruebas.
 * Documentación de prueba.
 
+Fortalecí mis habilidades en análisis de requisitos, diseño de pruebas y documentación, aplicando un enfoque metódico para asegurar la calidad del producto.
+
 ___
 
 [🪲 **Sprint 03:** Buscador de bugs](https://github.com/tuusuario/sprint03)  
@@ -65,13 +67,14 @@ Durante en este sprint aprendí lo siguiente:
 * ¿Cómo probar el diseño para la adaptabilidad?
 * ¿Cómo diseñar casos de prueba de aplicaciones web?
 
+Este proyecto me permitió fortalecer mis habilidades en pruebas de UI y seguimiento de bugs utilizando Jira, comprendiendo cómo evaluar la adaptabilidad y funcionalidad de una aplicación web en distintos entornos.
+
 ___
 
 [⚙️ **Sprint 04:** Integración continua y reportes](https://github.com/tuusuario/sprint04)  
 _Habilidades: Dominio de las pruebas manuales de APIs utilizando Postman y Apidoc para crear e inspeccionar solicitudes HTTP._
 
-Durante este sprint he adquirido una comprensión sobre el funcionamiento de las API, incluidas las interacciones solicitud-respuesta y los protocolos de intercambio de datos. 
-
+Este sprint marcó mi primer acercamiento real al testing de APIs, fortalecí mis habilidades en pruebas manuales de APIs con Postman y Apidoc, comprendiendo mejor las respuestas HTTP y su impacto en la calidad del software.
 
 
 ___
