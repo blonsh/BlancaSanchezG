@@ -57,9 +57,19 @@ _Habilidades: Dominio de las pruebas manuales de APIs utilizando Postman y Apido
 
 Este sprint marcó mi primer acercamiento real al testing de APIs, fortalecí mis habilidades en pruebas manuales de APIs con Postman y Apidoc, comprendiendo mejor las respuestas HTTP y su impacto en la calidad del software.
 
+___
+
+### 🚧 Próximos entregables 🔜
+
++ [📱 **Sprint 05:** Pruebas de aplicaciones móviles] 24 de noviembre del 2025
++ [🗄️ **Sprint 06:** Fundamentos de bases de datos] 15 de diciembre del 2025
++ [🤖 **Sprint 07:** Introducción a la automatización de pruebas] 5 de enero del 2026
++ [🌐 **Sprint 08:** Automatización de pruebas de la aplicación web] 26 de enero del 2026
++ [🏁 **Sprint 09:** Proyecto final] 16 de febrero del 2026
+
 
 ___
-🗓️ **Fecha estimada de finalización del bootcamp:** Enero de 2026.  
+🗓️ **Fecha estimada de finalización del bootcamp:** Febrero de 2026.  
 📚 Se agregarán nuevos proyectos al concluir cada sprint.
 
 ---
