@@ -3,7 +3,8 @@
 ## 👩🏼‍💻 About Me:
 QA Engineer Jr. en transición desde el mundo de la Administración de Empresas.
 Hoy no hago reportes financieros, hago reportes de bugs (y con más emoción).
-🦸‍♀️ Mi superpoder: detectar errores antes de que el cliente los note.
+⚡ Mi superpoder: detectar errores antes de que el cliente los note.
+☕ Y claro... preparar el mejor cafecito para acompañar cada test.
 
 
 ## 🛠️ Mis Habilidades Clave
@@ -32,7 +33,7 @@ Cada enlace te llevará al repositorio o carpeta correspondiente.
 
  
 [🔍 **Sprint 01:** Mi primera experiencia QA](https://github.com/blonsh/TripleTen_QaEngineer/tree/16d801e3e4f0fccf350e89d4d80737fbe851ad5b/Sprint01%20_Mi%20primera%20experiencia%20QA)  
-_Habilidades: Pruebas de humo, Pruebas de regresión, Informes de errores._
+_Habilidades: Pruebas de humo, Pruebas de regresión, Informes de errores_
 
 El proyecto me ayudó a consolidar nuevo conocimiento y a adquirir habilidades prácticas para realizar pruebas.
 
@@ -40,7 +41,7 @@ ___
 
 
 [📝 **Sprint 02:** Lider en documentación de pruebas](https://github.com/blonsh/TripleTen_QaEngineer/tree/16d801e3e4f0fccf350e89d4d80737fbe851ad5b/Sprint02_Lider%20en%20documentaci%C3%B3n%20de%20pruebas)  
-_Habilidades: Análisis de requisitos, Diseño de pruebas, Documentación de prueba._
+_Habilidades: Análisis de requisitos, Diseño de pruebas, Documentación de prueba_
 
 En este sprint fortalecí mis habilidades en análisis de requisitos, diseño de pruebas y documentación, aplicando un enfoque metódico para asegurar la calidad del producto.
 
@@ -54,7 +55,7 @@ Este proyecto me permitió fortalecer mis habilidades en pruebas de UI y seguimi
 ___
 
 [⚙️ **Sprint 04:** Tester de APIs](https://github.com/blonsh/TripleTen_QaEngineer/tree/f7b16f30ad9cacd23eb89d8354e0eae96a9c8bf8/Sprint03_Buscador%20de%20bugs)  
-_Habilidades: Dominio de las pruebas manuales de APIs utilizando Postman y Apidoc para crear e inspeccionar solicitudes HTTP._
+_Habilidades: Dominio de las pruebas manuales de APIs utilizando Postman y Apidoc para crear e inspeccionar solicitudes HTTP_
 
 Este sprint marcó mi primer acercamiento real al testing de APIs, fortalecí mis habilidades en pruebas manuales de APIs con Postman y Apidoc, comprendiendo mejor las respuestas HTTP y su impacto en la calidad del software.
 
