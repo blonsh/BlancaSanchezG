@@ -1,8 +1,10 @@
 # Blanca Sánchez G.
 
 ## 👩🏼‍💻 About Me:
-En este momento me encuentro en una emocionante transición de carrera, estoy pivotando mi experiencia previa en Administración de Empresas hacia el campo de la Ingeniería de Calidad (QA Engineer Jr.)
-🪲 Mi superpoder es encontrar fallos antes que el cliente. 
+QA Engineer Jr. en transición desde el mundo de la Administración de Empresas.
+Hoy no hago reportes financieros, hago reportes de bugs (y con más emoción).
+🦸‍♀️ Mi superpoder: detectar errores antes de que el cliente los note.
+
 
 ## 🛠️ Mis Habilidades Clave
 
