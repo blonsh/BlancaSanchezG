@@ -3,8 +3,7 @@
 ## 👩🏼‍💻 About Me:
 QA Engineer Jr. en transición desde el mundo de la Administración de Empresas.
 Hoy no hago reportes financieros, hago reportes de bugs (y con más emoción).
-⚡ Mi superpoder: detectar errores antes de que el cliente los note.
-☕ Y claro... preparar el mejor cafecito para acompañar cada test.
+⚡ Mi superpoder: detectar errores antes de que el cliente los note y claro... ☕ preparar el mejor cafecito para acompañar cada test.
 
 
 ## 🛠️ Mis Habilidades Clave
