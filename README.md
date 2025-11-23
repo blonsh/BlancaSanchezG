@@ -1,10 +1,13 @@
-# Blanca Sánchez G.
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://aristi.dev">Blanca</a> 👋</h1>
+</div>
+
+
 
 ## 👩🏼‍💻 About Me:
 QA Engineer Jr. en transición desde el mundo de la Administración de Empresas.
 Hoy no hago reportes financieros, hago reportes de bugs (y con más emoción).
 ⚡ Mi superpoder: detectar errores antes de que el cliente los note y claro... ☕ preparar el mejor cafecito para acompañar cada test.
-
 
 ## 🛠️ Mis Habilidades Clave
 
@@ -14,6 +17,9 @@ Estoy enfocada en la automatización y el testing de la capa de servicios:
 * **UI Testing:** Selenium
 * **Gestión de Defectos:** Jira y Confluence.
 
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+
 ## 💻 Actualmente
 
 Estoy trabajando en el **diseño y ejecución de una suite de API Tests para la aplicación Urban Grocers**, utilizando Postman para validar la lógica de negocio de los **kits de productos** y la correcta integración con los **servicios de entrega**.
@@ -21,6 +27,11 @@ Estoy trabajando en el **diseño y ejecución de una suite de API Tests para la 
 ## 💡 Lo que estoy aprendiendo
 
 **Automatización:** Pytest 🐍
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/blancasanchez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/blancasanchezg) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/blonssh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:blanca.sanchezg@icloud.com) 
+
+
 
 ## 🧩 Proyectos
 
@@ -66,7 +77,6 @@ ___
 
 ### 🚧 Próximos entregables 🔜
 
-
 + [🗄️ **Sprint 06:** Fundamentos de bases de datos] 15 de diciembre del 2025
 + [🤖 **Sprint 07:** Introducción a la automatización de pruebas] 5 de enero del 2026
 + [🌐 **Sprint 08:** Automatización de pruebas de la aplicación web] 26 de enero del 2026
@@ -81,22 +91,14 @@ ___
 
 **Siempre estoy abierta a conectar** ¡Gracias por pasar por aquí!
 
+### ⚙️ &nbsp;GitHub Analytics
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/blancasanchez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/blancasanchezg) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/blonssh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:blanca.sanchezg@icloud.com) 
+<p align="center">
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=blonsh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=blonsh&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=blonsh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)    ![](https://nirzak-streak-stats.vercel.app/?user=blonsh&theme=dark&hide_border=false)<br/>
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=blonsh&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
