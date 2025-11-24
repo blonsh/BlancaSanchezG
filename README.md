@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Blanca</a> 👋</h1>
 </div>
-<img src="https://github.com/blonsh/blonsh/blob/main/Portada.png">
+<img src="https://github.com/blonsh/blonsh/blob/main/kentbeck_quote.jpg">
 
 
 ## 👩🏼‍💻 About Me:
