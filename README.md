@@ -21,55 +21,55 @@ Junior QA Engineer transitioning from the world of Business Administration. Toda
 
 ## 🧩 Proyectos
 
-### Bootcamp Ingeniero de Calidad de Software - TripleTen 
+### Quality Assurance bootcamp- TripleTen 
 
-**Descripción:**  
-A continuación se muestran los entregables desarrollados durante cada sprint del Bootcamp de QA Engineer de TripleTen.  
-Cada enlace te llevará al repositorio o carpeta correspondiente.
+**Description:**  
+Below are the deliverables developed during each sprint of the TripleTen QA Engineer Bootcamp.
+Each link will take you to the corresponding repository or folder.
 
  
-[🔍 **Sprint 01:** Mi primera experiencia QA](https://github.com/blonsh/TripleTen_QaEngineer/tree/bc1fc8790c3f9d77be79832f4356b8dda7696002/Sprint01%20_Mi%20primera%20experiencia%20QA)  
-_Habilidades: Pruebas de humo, Pruebas de regresión, Informes de errores_
+[🔍 **Sprint 01:** My First QA Experience](https://github.com/blonsh/TripleTen_QaEngineer/tree/bc1fc8790c3f9d77be79832f4356b8dda7696002/Sprint01%20_Mi%20primera%20experiencia%20QA)  
+_Skills: Smoke Testing, Regression Testing, Bug Reporting_
 
-El proyecto me ayudó a consolidar nuevo conocimiento y a adquirir habilidades prácticas para realizar pruebas.
-
-___
-
-
-[📝 **Sprint 02:** Lider en documentación de pruebas](https://github.com/blonsh/TripleTen_QaEngineer/tree/bc1fc8790c3f9d77be79832f4356b8dda7696002/Sprint02_Lider%20en%20documentaci%C3%B3n%20de%20pruebas)  
-_Habilidades: Análisis de requisitos, Diseño de pruebas, Documentación de prueba_
-
-En este sprint fortalecí mis habilidades en análisis de requisitos, diseño de pruebas y documentación, aplicando un enfoque metódico para asegurar la calidad del producto.
+This project helped me solidify my understanding and build practical testing skills.
 
 ___
 
-[🪲 **Sprint 03:** Buscador de bugs](https://github.com/blonsh/TripleTen_QaEngineer/tree/bc1fc8790c3f9d77be79832f4356b8dda7696002/Sprint03_Buscador%20de%20bugs)  
+
+[📝 **Sprint 02:** Test Documentation](https://github.com/blonsh/TripleTen_QaEngineer/tree/bc1fc8790c3f9d77be79832f4356b8dda7696002/Sprint02_Lider%20en%20documentaci%C3%B3n%20de%20pruebas)  
+_Skills: Requirements Analysis, Test Design, Test Documentation_
+
+This sprint allowed me to deepen my abilities in requirement analysis, test design, and documentation, using a systematic approach to maintain high product quality.
+
+___
+
+[🪲 **Sprint 03:** Bug Hunter](https://github.com/blonsh/TripleTen_QaEngineer/tree/bc1fc8790c3f9d77be79832f4356b8dda7696002/Sprint03_Buscador%20de%20bugs)  
 _Habilidades: Seguimiento de bugs, Jira, Pruebas de UI_
 
-Este proyecto me permitió fortalecer mis habilidades en pruebas de UI y seguimiento de bugs utilizando Jira, comprendiendo cómo evaluar la adaptabilidad y funcionalidad de una aplicación web en distintos entornos.
+This project helped me sharpen my UI testing skills and improve my bug-tracking workflow using Jira. It also gave me a clearer understanding of how to evaluate a web app’s adaptability and functionality across different environments.
 
 ___
 
-[⚙️ **Sprint 04:** Tester de APIs](https://github.com/blonsh/TripleTen_QaEngineer/tree/bc1fc8790c3f9d77be79832f4356b8dda7696002/Sprint04_Testing%20de%20APIs)  
-_Habilidades: Dominio de las pruebas manuales de APIs utilizando Postman y Apidoc para crear e inspeccionar solicitudes HTTP_
+[⚙️ **Sprint 04:** API Testing](https://github.com/blonsh/TripleTen_QaEngineer/tree/bc1fc8790c3f9d77be79832f4356b8dda7696002/Sprint04_Testing%20de%20APIs)  
+_Skills: Proficient in manual API testing using Postman and Apidoc to create, review, and validate HTTP requests_
 
-Este sprint marcó mi primer acercamiento real al testing de APIs, fortalecí mis habilidades en pruebas manuales de APIs con Postman y Apidoc, comprendiendo mejor las respuestas HTTP y su impacto en la calidad del software.
-
-___
-
-[📲 **Sprint 05:** Pruebas de aplicaciones móviles](https://github.com/blonsh/TripleTen_QaEngineer/tree/bc1fc8790c3f9d77be79832f4356b8dda7696002/Sprint05_Mobile%20Testing) Entrega del Sprint - 24 de noviembre del 2025.
+This sprint was my first real dive into API testing. I strengthened my skills in manual API testing using Postman and Apidoc, and gained a clearer understanding of HTTP responses and how they influence software quality
 
 ___
 
-[🗄️ **Sprint 06:** Fundamentos de bases de datos](https://github.com/blonsh/TripleTen_QaEngineer/tree/bc1fc8790c3f9d77be79832f4356b8dda7696002/Sprint05_Mobile%20Testing) Entrega del Sprint - 15 de diciembre del 2025.
+[📲 **Sprint 05:** Mobile Application Testing](https://github.com/blonsh/TripleTen_QaEngineer/tree/bc1fc8790c3f9d77be79832f4356b8dda7696002/Sprint05_Mobile%20Testing) Entrega del Sprint - 24 de noviembre del 2025.
+
+___
+
+[🗄️ **Sprint 06:** Introduction to Databases](https://github.com/blonsh/TripleTen_QaEngineer/tree/bc1fc8790c3f9d77be79832f4356b8dda7696002/Sprint05_Mobile%20Testing) Entrega del Sprint - 15 de diciembre del 2025.
 
 ___
 
 ### 🚧 Próximos entregables 🔜
 
-+ [🤖 **Sprint 07:** Introducción a la automatización de pruebas] 5 de enero del 2026
-+ [🌐 **Sprint 08:** Automatización de pruebas de la aplicación web] 26 de enero del 2026
-+ [🏁 **Sprint 09:** Proyecto final] 16 de febrero del 2026
++ [🤖 **Sprint 07:** Introduction to Automated Testing] 5 de enero del 2026
++ [🌐 **Sprint 08:** Web Application Test Automation] 26 de enero del 2026
++ [🏁 **Sprint 09:** My Final Project] 16 de febrero del 2026
 
 
 ___
@@ -78,7 +78,7 @@ ___
 
 ---
 
-**Siempre estoy abierta a conectar** ¡Gracias por pasar por aquí!
+**Always open to new connections. Thanks for being here!**
 
 ### ⚙️ &nbsp;GitHub Analytics
 
