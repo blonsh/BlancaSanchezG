@@ -5,7 +5,6 @@
 
 
 ## 👩🏼‍💻 About Me:
-QA Engineer Jr. en transición desde el mundo de la Administración de Empresas.
 Junior QA Engineer transitioning from the world of Business Administration. Today I don't write financial reports, I write bug reports (and with more enthusiasm). 
 ⚡ My superpower is detecting errors before the client notices them and of course... ☕ making the best coffee to go with every test.
 
