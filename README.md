@@ -57,24 +57,24 @@ This sprint was my first real dive into API testing. I strengthened my skills in
 
 ___
 
-[📲 **Sprint 05:** Mobile Application Testing](https://github.com/blonsh/TripleTen_QaEngineer/tree/bc1fc8790c3f9d77be79832f4356b8dda7696002/Sprint05_Mobile%20Testing) Entrega del Sprint - 24 de noviembre del 2025.
+[📲 **Sprint 05:** Mobile Application Testing](https://github.com/blonsh/TripleTen_QaEngineer/tree/bc1fc8790c3f9d77be79832f4356b8dda7696002/Sprint05_Mobile%20Testing) Sprint Delivery – November 24, 2025.
 
 ___
 
-[🗄️ **Sprint 06:** Introduction to Databases](https://github.com/blonsh/TripleTen_QaEngineer/tree/bc1fc8790c3f9d77be79832f4356b8dda7696002/Sprint05_Mobile%20Testing) Entrega del Sprint - 15 de diciembre del 2025.
+[🗄️ **Sprint 06:** Introduction to Databases](https://github.com/blonsh/TripleTen_QaEngineer/tree/bc1fc8790c3f9d77be79832f4356b8dda7696002/Sprint05_Mobile%20Testing) Sprint Delivery – December 15, 2025.
 
 ___
 
 ### 🚧 Próximos entregables 🔜
 
-+ [🤖 **Sprint 07:** Introduction to Automated Testing] 5 de enero del 2026
-+ [🌐 **Sprint 08:** Web Application Test Automation] 26 de enero del 2026
-+ [🏁 **Sprint 09:** My Final Project] 16 de febrero del 2026
++ [🤖 **Sprint 07:** Introduction to Automated Testing] Sprint Delivery – January 5, 2026.
++ [🌐 **Sprint 08:** Web Application Test Automation] Sprint Delivery – January 26, 2026.
++ [🏁 **Sprint 09:** My Final Project] Sprint Delivery – February 16, 2026.
 
 
 ___
-🗓️ **Fecha estimada de finalización del bootcamp:** Febrero de 2026.  
-📚 Se agregarán nuevos proyectos al concluir cada sprint.
+🗓️ **Estimated Bootcamp Completion Date: February 2026:**  
+📚 New projects will be added at the end of each sprint.
 
 ---
 
