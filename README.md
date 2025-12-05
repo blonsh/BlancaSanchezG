@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hello, I´am <a href="https://aristi.dev">Blanca</a> 👋</h1>
+<h1 align="center">Hello, I´m <a href="https://aristi.dev">Blanca</a> 👋</h1>
 </div>
 <img src="https://github.com/blonsh/blonsh/blob/main/kentbeck_quote.jpg">
 
