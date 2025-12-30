@@ -69,7 +69,7 @@ _Learned to work with a remote server using command-line tools and writing SQL q
 
 ___
 
-[🤖 **Sprint 07:** Introduction to Automated Testing](https://github.com/blonsh/TripleTen_QaEngineer/tree/main/Sprint07_Introduction%20to%20Automated%20Testing) – January 5, 2026.
+[🤖 **Sprint 07:** Introduction to Automated Testing](https://github.com/blonsh/qa-project-Urban-Grocers-app-es) – January 5, 2026.
 
 _During this sprint, I learned to work with two key technologies:_
 
@@ -90,7 +90,7 @@ _Throughout this sprint, I developed valuable skills such as:_
 
 ___
 
-[🌐 **Sprint 08:** Web Application Test Automation](https://github.com/blonsh/TripleTen_QaEngineer/tree/main/Sprint08_Web%20Application%20Test%20Automation) – January 26, 2026.
+[🌐 **Sprint 08:** Web Application Test Automation](https://github.com/blonsh/qa-project-Urban-Routes-es) – January 26, 2026.
 
 _Learned the fundamentals of Selenium WebDriver for automated UI testing, including interacting with web elements to efficiently test application functionality. Strengthened Python skills and explored best practices for UI test automation in QA._
 
