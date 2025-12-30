@@ -59,16 +59,45 @@ ___
 
 [📲 **Sprint 05:** Mobile Application Testing](https://github.com/blonsh/TripleTen_QaEngineer/tree/bc1fc8790c3f9d77be79832f4356b8dda7696002/Sprint05_Mobile%20Testing) Sprint Delivery – November 24, 2025.
 
-___
-
-[🗄️ **Sprint 06:** Introduction to Databases](https://github.com/blonsh/TripleTen_QaEngineer/tree/bc1fc8790c3f9d77be79832f4356b8dda7696002/Sprint05_Mobile%20Testing) Sprint Delivery – December 15, 2025.
+_I successfully tested the Contacts mobile app using an emulator in Android Studio, and now I understand the differences between virtual and real devices and how to use them for mobile application testing._
 
 ___
 
-### 🚧 Próximos entregables 🔜
+[🗄️ **Sprint 06:** Introduction to Databases](https://github.com/blonsh/TripleTen_QaEngineer/tree/main/Sprint06_Introduction%20to%20Databases) Sprint Delivery – December 15, 2025.
 
-+ [🤖 **Sprint 07:** Introduction to Automated Testing] Sprint Delivery – January 5, 2026.
-+ [🌐 **Sprint 08:** Web Application Test Automation] Sprint Delivery – January 26, 2026.
+_Learned to work with a remote server using command-line tools and writing SQL queries to retrieve data from a database._
+
+___
+
+[🤖 **Sprint 07:** Introduction to Automated Testing](https://github.com/blonsh/TripleTen_QaEngineer/tree/main/Sprint07_Introduction%20to%20Automated%20Testing) – January 5, 2026.
+
+_During this sprint, I learned to work with two key technologies:_
+
++ The fundamentals of Python, one of the most popular programming languages among testers.
++ The basics of creating automated API tests with Pytest, an incredibly useful testing framework.
+
+_Throughout this sprint, I developed valuable skills such as:_
+
++ Creating variables and functions in Python.
+
++ Writing conditional statements and loops to control program flow.
+
++ Working with Python data structures such as lists, tuples, and dictionaries.
+
++ Creating a Git repository to store and manage code.
+
++ Managing a GitHub repository, the leading collaboration platform used by most development teams.
+
+___
+
+[🌐 **Sprint 08:** Web Application Test Automation](https://github.com/blonsh/TripleTen_QaEngineer/tree/main/Sprint08_Web%20Application%20Test%20Automation) – January 26, 2026.
+
+_Learned the fundamentals of Selenium WebDriver for automated UI testing, including interacting with web elements to efficiently test application functionality. Strengthened Python skills and explored best practices for UI test automation in QA._
+
+___
+
+### 🚧 Next sprint deliverables 🔜
+
 + [🏁 **Sprint 09:** My Final Project] Sprint Delivery – February 16, 2026.
 
 
